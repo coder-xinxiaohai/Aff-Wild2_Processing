@@ -1,6 +1,6 @@
 # result文件夹说明
 
-**result文件夹主要用于存放项目运行后的结果**。 
+**result文件夹主要用于存放项目运行后的结果**。
 
 ![image](https://github.com/coder-xinxiaohai/Aff-Wild2_Processing/assets/73678229/73b47a8f-5ea5-4d96-b9a9-3f6d53682ac5)
 
