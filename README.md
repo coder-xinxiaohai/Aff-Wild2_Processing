@@ -11,7 +11,7 @@
 ****
 **1、数据准备工作**
 
-由于Aff-Wild2数据集并未开源，需要自行申请，具体可点[这里](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)，申请并下载成功后，须**将Aff-Wild2数据集中经面部裁剪、对齐并压缩至112*112大小的面部图像压缩包进行解压并放于Image文件夹下**，如下图所示：
+由于Aff-Wild2数据集并未开源，需要自行申请，具体可点[这里](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)，申请并下载成功后，须**将Aff-Wild2数据集中经面部对齐、裁剪并压缩至112*112大小的面部图像压缩包进行解压并放于Image文件夹下**，如下图所示：
 
 ![image](https://github.com/coder-xinxiaohai/Aff-Wild2_Processing/assets/73678229/0b1d01a9-6b86-4859-89f3-56a7e11832a5)
 
