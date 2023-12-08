@@ -15,9 +15,9 @@
 
 ![image](https://github.com/coder-xinxiaohai/Aff-Wild2_Processing/assets/73678229/3a4002b1-acfd-4caf-85e1-43b3f2efb652)
 
-**0.1noise_train.txt**：用于存放给训练标签加10%噪声后的结果。
+**0.1noise_train.txt**：用于存放给训练标签加10%噪声后的结果（仅针对情绪标签）。
 
-**0.2noise_train.txt**：用于存放给训练标签加20%噪声后的结果。
+**0.2noise_train.txt**：用于存放给训练标签加20%噪声后的结果（仅针对情绪标签）。
 
-**0.3noise_train.txt**：用于存放给训练标签加30%噪声后的结果。
+**0.3noise_train.txt**：用于存放给训练标签加30%噪声后的结果（仅针对情绪标签）。
 
